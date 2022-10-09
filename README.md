@@ -257,3 +257,4 @@ https://t.me/SSRSUB
 <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">官网下载</a></p>
 <h4><strong>iOS-<strong>SSR小飞机 苹果手机客户端App程序</strong></strong>下载</h4>
 <p>iPhone或者iPad打开苹果App Store，搜索Mume(暮梅)、Potatso Lite、FastSocks、Shadowrocket（小火箭）。</p>
+友情链接：[免费v2ray节点](https://www.horysk.com)  [clash科学上网](https://github.com/aiboboxx/clashfree)  [开心驿站](https://www.hory-ai.com)
