@@ -204,11 +204,6 @@ vmess://eyJhZGQiOiAiYWgueWQwMS5wYW9wYW9jbG91ZC5jeW91IiwgImFpZCI6IDAsICJob3N0Ijog
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NDTiA5IOKGkiB2MmNyb3NzLmNvbSIsImFkZCI6IjExMS40NS4yMi4yNDYiLCJwb3J0IjoiMTYxMTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjFkMzlmZTEtYmZhMy0zNGZmLTg2YTItMjkyNTBhZjAzMTgzIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJhZGQiOiJ2NC5oZWR1aWFuLm9ubGluZSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuFVTLfCfh7rwn4e4VVNfMTAiLCJwb3J0IjozMDg2NiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImJhaWR1LmNvbSIsInBhdGgiOiIvb29vbyIsInRscyI6IiJ9
 ```
-<h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
-<p>上方订阅地址二维码</p>
-<img src='https://raw.fastgit.org/Pawdroid/Free-servers/main/sub.png' width=250 height=250>
-<blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
-<h4>建议国内iOS用户及早 <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store下载</a> 留存，可能会在未来的某个时间下架</h4>
 
 <div class="nv-content-wrap entry-content">
 <h2>Clash、SS等客户端订阅地址一键转换：</h2>
