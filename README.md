@@ -1,5 +1,7 @@
 
 <h2>免费节点及订阅地址：</h2>
+https://www.hory-ai.com/
+https://www.horysk.com/
 <blockquote>
 <p style="text-align: center;">优质节点每天实时测速更新，6小时更新一次</p>
 </blockquote>
